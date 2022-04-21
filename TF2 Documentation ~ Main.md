@@ -23,11 +23,11 @@ You can learn how to download and play the game by clicking **[here](#downloadin
 Getting started is very simple when playing Team Fortress 2, the tricky part is mastering  the game and its controls. As stated before, TF2 has nine classes to choose from. Those being the *Scout, Heavy, Pyro, Engineer, Spy, Sniper, Demoman, Medic, and Soldier*. 
 
 * Each class plays an important role when the game starts and is vital to your team's success. 
-* If you want to learn more about each and every class click **[here](TF2 Documentation ~ Classes.md)** for a detailed review of each class. 
+* If you want to learn more about each and every class click **[here](#character-classes)** for a detailed review of each class. 
 
 TF2 also has a variety of gamemodes for you to play, so the gameplay never gets stale. These include but are not limited to: *Attack / Defend, Capture the Flag, Control Points, King of the Hill, and Payload*.
 
-* If you want to learn more about these gamemodes, click **[here](TF2 Documentation ~ Gamemodes.md)**
+* If you want to learn more about these gamemodes, click **[here](#game-modes)**
 
 ## FAQ
 
