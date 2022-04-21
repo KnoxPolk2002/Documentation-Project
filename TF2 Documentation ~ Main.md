@@ -16,7 +16,7 @@ Constantly updated with new game modes, maps, equipment and, most importantly, *
 
 ## Download
 
-You can learn how to download and play the game by clicking **[here](#download)**
+You can learn how to download and play the game by clicking **[here](#downloading-the-game)**
 
 ## Getting Started
 
@@ -45,7 +45,7 @@ You can also get in contact with the player community and ask the fanbase direct
 
 --------
 
-# Download
+# Downloading the Game
 
 Team Fortress 2 is currently avaliable on Steam, and is playable on Windows, Mac, and Linux OS. You could also play it on Xbox 360 and Playstation 3 if you have either of those consoles. 
 
