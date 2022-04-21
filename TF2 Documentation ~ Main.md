@@ -146,12 +146,29 @@ The Demoman is a self-described black Scottish cyclops and a scrumpy-swilling de
 
 ![Macdown Screenshot](https://i.ytimg.com/vi/han3AfjH210/maxresdefault.jpg)
 
+Demoman is one of the more strategic characters in TF2. The grenades he fires are able to deal massive amounts of damage to enemy players, even if they were not the primary target. His sticky grenades also allow for one to cover alter routes the enemy team may take, blocking their pathes and leading to many players dying if hidden well enough. 
+
+##### Weapons
+
+* Demoman's primary weapon is his basic Grenade Launcher; Useful for inflicting huge amounts of damage on enemies wihtout having to aim as carefully.
+* His secondary weapon is his Sticky Grenade Launcher; Letting him carefully place grenades that will explode once an enemy is in close proximity. 
+* Finally his melee is his Scrumpy Bottle; similar to other melee weapons, it is useful for dealing reasonable damage from a close range. 
+
+
 If you want to see more of Demoman's personality, click **[here](https://youtu.be/han3AfjH210)** to view the Meet the Demoman trailer.
 
 ## Heavy
 The Heavy Weapons Guy, more commonly known as the Heavy, is a towering hulk of a man hailing from the USSR. He is the largest and possibly most dangerous class in Team Fortress 2. Boasting the most default health and devastating firepower from his trusty Minigun, the Heavy is no pushover.
 
 ![Macdown Screenshot](https://i.ytimg.com/vi/jHgZh4GV9G0/maxresdefault.jpg)
+
+Heavy's name pretty much speaks for itself. Heavy is the character with the most health in the game along with one of the highest damage outputs. Heavy is the class you want on the front lines to deal damage and take hits. He is, however, the slowest of all the classes, so if you are out in the open for too long, you may run out of health. However, when paired with a Medic, Heavy's is a bit more difficult to take down. 
+
+##### Weapons
+
+* His primary fire is his Minigun; This fully-automatic machine gun shoots at a rapid pace and deals considerable damage, but is a little slow to aim.
+* Heavy's secondary weapon is the Shotgun; similar to other class's secondaries, it is good with dealing a lot of damage from a close distance.
+* Then his melee weapon is not even a weapon, it's his Fists; using your fists allows you to deal damage from close range but leaves you even more open than usual.
 
 If you want to see more of Heavy's personality, click **[here](https://youtu.be/jHgZh4GV9G0)** to view the Meet the Heavy trailer.
 
@@ -160,6 +177,15 @@ If you want to see more of Heavy's personality, click **[here](https://youtu.be/
 The Engineer is a soft-spoken, amiable Texan from Bee Cave, Texas, USA with an interest in all mechanical things. He specializes in constructing and maintaining Buildings that provide support to his team, rather than fighting at the front lines, making him the most suitable for defense.
 
 ![Macdown Screenshot](https://i.ytimg.com/vi/SNgNBsCI4EA/maxresdefault.jpg)
+
+Engineer is one of the most unique classes in the game, as most of the damage done from him is actually done by the machines he deploys. The key to playing Engineer is to pick critical points of interest on the battlefield to make is harder for the enemy team to advance and to improve your own team's chances. Be careful though, because once those machines are destroyed you are pretty defenseless. 
+
+##### Weapons
+
+* Engineer's primary is a Shotgun; Useful for close range and fairly useless for long range. 
+* His secondary is a Pistol; Much more useful for long range fire fights.
+* Then Engineer's melee is a Wrench; Fitting of the handy man of the team
+* Finally Engineer has his Construction PDA; This allows him to build his machines including Turrents, Healing Stations, and Teleporters.
 
 If you want to see more of Engineer's personality, click **[here](https://youtu.be/SNgNBsCI4EA)** to view the Meet the Engineer trailer.
 
@@ -171,12 +197,28 @@ The Medic is a Teutonic man of medicine from Stuttgart, Germany. While he may ha
 
 ![Macdown Screenshot](https://m.media-amazon.com/images/M/MV5BYTZkOGRjNzAtNjNiNC00OWFlLTg0OWYtMTc2MjVhYjNlYWUzXkEyXkFqcGdeQXVyNjc3OTE4Nzk@._V1_.jpg)
 
+Medic is one of the msot important classes in the game. His unique ability to heal his teammates make him a vital asset to keeping his team fitting long enough to secure objectives. But this makes him a more defenseless character, meaning your teammates need to make sure you're properly defended to be the best Medic you can be.
+
+##### Weapons
+
+* Medic's primary weapon is his Syringe Gun; Not the most powerful weapon avaliable, but can do a bit of damage to get you out of situations. 
+* His secondary is his Medi Gun; This is the device that gives the Medic his name. Using it allows you to heal others, and you can even go UBER once healing a player, which makes you and the player you are healing invincible for a short time.
+* Finally his melee is a simple Bonesaw; functions like most other melee weapons. 
+
 If you want to see more of Medic's personality, click **[here](https://youtu.be/36lSzUMBJnc)** to view the Meet the Medic trailer.
 
 ## Sniper
 Hailing from the lost country of New Zealand and raised in the unforgiving Australian outback, the Sniper is a tough and ready crack shot. The Sniper's main role on the battlefield is to pick off important enemy targets from afar using his Sniper Rifle and its ability to deal guaranteed critical hits with a headshot (with some exceptions).
 
 ![Macdown Screenshot](https://i.ytimg.com/vi/9NZDwZbyDus/maxresdefault.jpg)
+
+Sniper is another self explainitory class, with him being excellent and long range. It is best to keep sniper far way from the main conflict you team is facing and picking off enemy players from a distance. Because if enemies get too close, you may have trouble fighting back.
+
+##### Weapons
+
+* His primary weapon is his Sniper Rifle; Excellent at long range, but very poor for short range. 
+* Sniper's secondary is an SMG; Good for a midrange fight, but a bit more lackluster for long range and short range.
+* Then his melee weapon Kukri; A machete like blade useful for fighting in close range. 
 
 If you want to see more of Sniper's personality, click **[here](https://youtu.be/9NZDwZbyDus)** to view the Meet the Sniper trailer.
 
@@ -185,6 +227,15 @@ If you want to see more of Sniper's personality, click **[here](https://youtu.be
 Hailing from an indeterminate region of France, the Spy is an enthusiast of sharp suits and even sharper knives. Using a unique array of cloaking watches, he can render himself invisible or even fake his own death, leaving unaware opponents off-guard. His Disguise Kit lets him take on the form of any class on either team, allowing him to blend in while behind enemy lines before stabbing his unsuspecting "teammates" in the back.
 
 ![Macdown Screenshot](https://s1.dmcdn.net/v/SJXYw1Wvmx7MfDlKJ/x1080)
+
+Spy is probably the most difficult but rewarding classes in Team Fortress 2 to play as. His unique ability to change his appearence to enemy players make him extremely dangerous when in the right hands. He also can use an EMP device to shutdown Engineer's machines and has a switchblade that when used on any enemy's back instantly kills them. Definitely a powerful class but can be easily killed once discovered by the enemy team.
+
+##### Weapons
+
+* Spy does not have a primary weapon, instead he has gadgets like the Invis-Watch and the Sapper. These allow him to turn invisible and destroy enemy machines respectively. 
+* His secondary weapon is a Revolver; Good for taking out enemy at long ranges.
+* Then Spy has his melee, the Switchblade; Only as good as other melee weapons, util you attack from the back then it can instantly kill other players.
+* Finally Spy has a Disguise Kit; Allowing him to disguise himself as enemy players and blend in amongst them. 
 
 If you want to see more of Spy's personality, click **[here](https://youtu.be/OR4N5OhcY9s)** to view the Meet the Spy trailer.
 
