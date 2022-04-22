@@ -240,3 +240,46 @@ Spy is probably the most difficult but rewarding classes in Team Fortress 2 to p
 If you want to see more of Spy's personality, click **[here](https://youtu.be/OR4N5OhcY9s)** to view the Meet the Spy trailer.
 
 ##### Return to [Main](#main)
+
+-------
+
+# Game Modes 
+
+Team Fortress 2 has a wide variety of game modes to choose from, it is one of the reasons the game is still being played nearly 15 years after it's initial launch in 2007. In every game mode you play on one of two teams, **RED** or **BLU**; This doesn't change anything other than your character's color scheme. Some of the most notable modes include *Attack / Defend, Capture the Flag, Control Points, King of the Hill, and Payload*. In the following sections will include detailed instructions on how to play each of these modes. 
+
+Please refer to this list if you need to refer to a specific game mode:
+
+* ***[ATTACK / DEFEND](#attack-/-defend)***
+* ***[CAPTURE THE FLAG](#capture-the-flag)***
+* ***[CONTROL POINTS](#control-points)***
+* ***[KING OF THE HILL](#king-of-the-hill)***
+* ***[PAYLOAD](#payload)***
+
+## Attack / Defend
+RED begins with all the points in their control. BLU wins if it captures all of RED's points. Points may only be captured in a set order. RED wins if it prevents BLU from capturing all points before the timer expires. Points captured by BLU are locked and cannot be captured again by RED.
+
+![Macdown Screenshot](https://wiki.teamfortress.com/w/images/thumb/1/1f/GravelPitDefense.jpg/500px-GravelPitDefense.jpg)
+
+
+
+## Capture the Flag
+Capture the Flag features both RED and BLU bases, each containing its own Intelligence briefcase (also known as the "flag"). The goal for both teams is to capture the enemy's Intelligence until they have reached the game's capture limit (default limit is 3 captures) while preventing the enemy team from achieving the same.
+
+![Macdown](https://teamwork.tf/images/quickplay/gamemode/ctf.png)
+
+## Control Points
+Control points are circular platforms with a team-colored light and hologram in the center (neutral points will have a white light and hologram). To capture a point owned by the enemy team, the player simply stands on the point until the capture meter fills with his or her team color. The more players on a point, the faster it will capture, though only to a limited extent. Scouts, as well as Soldiers/Demomen with the Pain Train equipped, count as 2 players when capturing control points. Capture progress will not be made when players of both teams are on the control point. If all the capturing players are killed or driven off before the capture is completed, the capture progress will not reset immediately, but instead will slowly fade away.
+
+![Macdown Screenshot](https://64.media.tumblr.com/3b719c4c3ee96047ed4afb4a0f5e3086/tumblr_o2v5im86eP1uz6nd0o1_1280.jpg)
+
+## King of the Hill
+King of the Hill focuses on a single control point at the center of the map, which is neutral and locked at the beginning of the round. Teams must make their way to the control point and capture it when it becomes available. Once the point is captured by a team, their team clock will start a three-minute countdown. If the enemy team manages to capture the point back, their clock will start counting down while the other team’s clock freezes at the time the point was recaptured. A team wins once they own the point, the three minutes countdown expires, and the other team's capture progress is gone.
+
+![Macdown Screenshot](https://w0.peakpx.com/wallpaper/911/192/HD-wallpaper-tf2-heavy-king-of-the-hill-valve-team-fortress-2-heavy-medic-tf2.jpg)
+
+## Payload
+BLU team must escort a cart full of explosives through a series of checkpoints and into RED's base within a certain amount of time. BLU team members move or 'push' the cart by standing next to it — the more people next to the cart, the faster it moves (up to a maximum capture rate of three). Any RED team member standing near the cart will stop it from venturing further, regardless of the number of BLU team members on the cart. If no BLU players push the cart for 30 seconds, the cart will start moving backward slowly until it reaches a checkpoint, BLU spawn, an uphill slope (in certain maps), or is pushed by BLU team members again, which will also reset the timer. The cart functions as a level 1 Dispenser for BLU team (and disguised enemy Spies) to restore health and ammunition to those pushing it. Ammunition is not restored to players standing at the front of the cart.
+
+![Macdown Screenshot](https://external-preview.redd.it/M21RLsvUjecLQat-YIQGkTcTxW0Urlfp4LrBhn7qsJQ.png?auto=webp&s=c8620652a4d47accfcc0f94c7aa87c176563564b)
+
+Return to **[Main](#main)**
