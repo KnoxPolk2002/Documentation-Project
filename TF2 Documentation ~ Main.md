@@ -10,13 +10,13 @@ Constantly updated with new game modes, maps, equipment and, most importantly, *
 
 ## What is Team Fortress 2?
 
-**Team Fortress 2** is a multiplayer first-person shooter game developed and published by Valve Corporation. You play as one of nine distinct character classes, each with their own unique weapons and personalities, on a team of 8-16 players against another team to complete various objectives. 
+**Team Fortress 2** is a multiplayer first-person shooter game developed and published by Valve Corporation. You play as one of nine distinct character classes, each with their own unique weapons and personalities, on a team of 8-16 players against another team to complete various objectives. This document aims to teach the reader what Team Fortress 2 entails and how the game play works. 
 
 ![Macdown Screenshot](https://www.realitybreached.com/wp-content/uploads/2011/06/team-fortress-2-for-mac.jpg)
 
 ## Download
 
-You can learn how to download and play the game by clicking **[here](#downloading-the-game)**
+You can learn how to download and play the game by clicking **[here](#installing-the-game)**
 
 ## Getting Started
 
@@ -45,7 +45,7 @@ You can also get in contact with the player community and ask the fanbase direct
 
 --------
 
-# Downloading the Game
+# Installing the Game
 
 Team Fortress 2 is currently avaliable on Steam, and is playable on Windows, Mac, and Linux OS. You could also play it on Xbox 360 and Playstation 3 if you have either of those consoles. 
 
