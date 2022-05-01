@@ -3,7 +3,7 @@ title: "Everything You Need to Know About Team Fortress 2"
 permalink: /
 layout: default
 ---
-# Team Fortress 2
+# ***Team Fortress 2***
 
 Nine distinct classes provide a broad range of tactical abilities and personalities. 
 Constantly updated with new game modes, maps, equipment and, most importantly, *hats*!
