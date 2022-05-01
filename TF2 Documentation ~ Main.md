@@ -1,9 +1,9 @@
 ---
-title: "Documentation Project"
+title: "Everything You Need to Know About Team Fortress 2"
 permalink: /
 layout: default
 ---
-# Main
+# Team Fortress 2
 
 Nine distinct classes provide a broad range of tactical abilities and personalities. 
 Constantly updated with new game modes, maps, equipment and, most importantly, *hats*!
@@ -63,7 +63,7 @@ Once you have downloaded the game to your Steam library, all you need now is to 
 
  and click the blue **PLAY** button to launch the game.
  
-##### Return to [Main](#main) 
+##### Return to the [top of the page](#team-fortress-2) 
 
 ---------
 
@@ -87,7 +87,7 @@ If you need to, you can select any of the following links to go to a specific ch
 * ***[SNIPER](#sniper)***
 * ***[SPY](#spy)***
 
-##### Return to [Main](#main) 
+##### Return to the [top of the page](#team-fortress-2) 
 
 # Offensive 
 Offensive classes are the main attack force of the team. Whether it's assaulting Control Points or grabbing the Intelligence, these classes focus on mobility. 
@@ -239,7 +239,7 @@ Spy is probably the most difficult but rewarding classes in Team Fortress 2 to p
 
 If you want to see more of Spy's personality, click **[here](https://youtu.be/OR4N5OhcY9s)** to view the Meet the Spy trailer.
 
-##### Return to [Main](#main)
+##### Return to the [top of the page](#team-fortress-2)
 
 -------
 
@@ -282,4 +282,4 @@ BLU team must escort a cart full of explosives through a series of checkpoints a
 
 ![Macdown Screenshot](https://external-preview.redd.it/M21RLsvUjecLQat-YIQGkTcTxW0Urlfp4LrBhn7qsJQ.png?auto=webp&s=c8620652a4d47accfcc0f94c7aa87c176563564b)
 
-Return to **[Main](#main)**
+##### Return to the [top of the page](#team-fortress-2)
